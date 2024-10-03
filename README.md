@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-Bu repo [Link](http://kodluyoruz.org) Django Web Development Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](http://kodluyoruz.org) Django Web Development Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
 
@@ -27,4 +27,4 @@ pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[Link](http://mit.com)
+[MIT](http://mit.com)
